@@ -1,1 +1,1 @@
-linuxserver/jackett:0.22.529
+flaresolverr/flaresolverr
