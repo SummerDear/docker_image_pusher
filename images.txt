@@ -1,2 +1,1 @@
-nyanmisaka/jellyfin
-tinymediamanager/tinymediamanager:latest
+linuxserver/jackett:0.22.529
